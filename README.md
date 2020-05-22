@@ -1,2 +1,2 @@
-# Tennis-gmae
-A tennis game made using html and java script
+# Tennis-game 
+This game is made using html and java script
